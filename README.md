@@ -1,6 +1,7 @@
 A simple ray tracer that renders spheres, cylinders and planes. It reads a scene description.
 There is spot lights and ambient lighting and colors.
 
+This project was written for and compiled on a Mac.
 make bonus
 ./miniRT <scene>. Scenes are in the scenes folder. Rendering might take a while (more than one minute). The scenes had to be written in a certain format, specified in the pdf.
 We use libmlx42 and that needs glfw. The mlx42 is downloaded automatically, glfw must be installed.
